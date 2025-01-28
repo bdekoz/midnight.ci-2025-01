@@ -1,0 +1,334 @@
+{
+  "platform": "android",
+  "date": "2025-01-27",
+  "test": "en_m_wikipedia_main_page",
+  "url": "https://en.m.wikipedia.org/wiki/Main_Page",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 1,
+    "google-publisher-tag": 0,
+    "preconnect": 1,
+    "prefetch": 0,
+    "preload": 0,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-01-27-android-en_m_wikipedia_main_page-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-27-android-en_m_wikipedia_main_page-firefox_00000.webp",
+      "00100": "2025-01-27-android-en_m_wikipedia_main_page-firefox_00100.webp",
+      "00200": "2025-01-27-android-en_m_wikipedia_main_page-firefox_00200.webp",
+      "00300": "2025-01-27-android-en_m_wikipedia_main_page-firefox_00300.webp"
+    },
+    "power": {
+      "powerUsage": {
+        "median": "6.92473e+09",
+        "stddev": "113911409.000000",
+        "rsd": "1.642876"
+      }
+    },
+    "metrics": {
+      "fcp": {
+        "median": "243",
+        "stddev": "48.000000",
+        "rsd": "18.961651"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "392",
+        "stddev": "79.000000",
+        "rsd": "19.547835"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "412",
+        "stddev": "80.000000",
+        "rsd": "18.940158"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "-2",
+        "stddev": "1.000000",
+        "rsd": "-41.327823"
+      },
+      "domainLookupStart": {
+        "median": "10",
+        "stddev": "3.000000",
+        "rsd": "32.203259"
+      },
+      "connectStart": {
+        "median": "11",
+        "stddev": "4.000000",
+        "rsd": "32.708723"
+      },
+      "requestStart": {
+        "median": "16",
+        "stddev": "4.000000",
+        "rsd": "23.562682"
+      },
+      "responseStart": {
+        "median": "21",
+        "stddev": "5.000000",
+        "rsd": "22.383958"
+      },
+      "domInteractive": {
+        "median": "265",
+        "stddev": "50.000000",
+        "rsd": "18.278902"
+      },
+      "domComplete": {
+        "median": "447",
+        "stddev": "95.000000",
+        "rsd": "20.635191"
+      },
+      "loadEventEnd": {
+        "median": "447",
+        "stddev": "95.000000",
+        "rsd": "20.572101"
+      },
+      "SpeedIndex": {
+        "median": "351",
+        "stddev": "52.000000",
+        "rsd": "14.656191"
+      },
+      "VisualComplete85": {
+        "median": "348",
+        "stddev": "53.000000",
+        "rsd": "14.752172"
+      },
+      "LastVisualChange": {
+        "median": "414",
+        "stddev": "79.000000",
+        "rsd": "18.120971"
+      },
+      "lcp_element": "\"\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/454px-League_of_Legends_2019_vector.svg.png\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "249.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "340.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "365.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "574.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "249.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "340.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "365.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "574.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "249.000000",
+          "percent": "8"
+        },
+        {
+          "timestamp": "340.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "365.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "574.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-27-android-en_m_wikipedia_main_page-chrome_00000.webp",
+      "00100": "2025-01-27-android-en_m_wikipedia_main_page-chrome_00100.webp",
+      "00200": "2025-01-27-android-en_m_wikipedia_main_page-chrome_00200.webp",
+      "00300": "2025-01-27-android-en_m_wikipedia_main_page-chrome_00300.webp"
+    },
+    "power": {
+      "powerUsage": {
+        "median": "6.41059e+09",
+        "stddev": "95732522.000000",
+        "rsd": "1.490379"
+      }
+    },
+    "metrics": {
+      "fcp": {
+        "median": "432",
+        "stddev": "44.000000",
+        "rsd": "10.686897"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "432",
+        "stddev": "43.000000",
+        "rsd": "10.446091"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "8",
+        "stddev": "1.000000",
+        "rsd": "16.628907"
+      },
+      "domainLookupStart": {
+        "median": "8",
+        "stddev": "1.000000",
+        "rsd": "16.628907"
+      },
+      "connectStart": {
+        "median": "8",
+        "stddev": "1.000000",
+        "rsd": "16.628907"
+      },
+      "requestStart": {
+        "median": "137",
+        "stddev": "44.000000",
+        "rsd": "37.082857"
+      },
+      "responseStart": {
+        "median": "150",
+        "stddev": "45.000000",
+        "rsd": "34.763440"
+      },
+      "domInteractive": {
+        "median": "304",
+        "stddev": "42.000000",
+        "rsd": "14.707896"
+      },
+      "domComplete": {
+        "median": "618",
+        "stddev": "89.000000",
+        "rsd": "15.427667"
+      },
+      "loadEventEnd": {
+        "median": "621",
+        "stddev": "89.000000",
+        "rsd": "15.439496"
+      },
+      "SpeedIndex": {
+        "median": "417",
+        "stddev": "44.000000",
+        "rsd": "11.018485"
+      },
+      "VisualComplete85": {
+        "median": "411",
+        "stddev": "44.000000",
+        "rsd": "11.193230"
+      },
+      "LastVisualChange": {
+        "median": "479",
+        "stddev": "45.000000",
+        "rsd": "9.622430"
+      },
+      "lcp_element": "\"\"<p></p>\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "411.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "462.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "479.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "411.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "462.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "479.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "411.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "462.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "479.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}
