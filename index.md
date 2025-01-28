@@ -1,6 +1,6 @@
 # About these diagrams
 
-# [Sitelist](https://github.com/bdekoz/midnight.ci-2025-01/tree/main/results/sitelist.txt)
+# [Sitelist](https://github.com/bdekoz/midnight.ci-2025-01/tree/main/results/2025-01-27/sitelist.txt)
 
 # Results
 - [allrecipes](/pages/2025-01-27-android-allrecipes-aggregate.svg)
