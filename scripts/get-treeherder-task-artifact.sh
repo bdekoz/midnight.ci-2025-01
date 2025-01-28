@@ -88,13 +88,16 @@ get_artifact_and_unpack() {
 
 # 2024-11-20
 # revision a3474ea43c045230a16fe2546af125bc643d47c2
-get_artifact_and_unpack "android-allrecipes-chrome" "OxA_fZ3RSAStcrYEJXkwYA"
-get_artifact_and_unpack "android-allrecipes-firefox" "cATLFcaiSeuA9v1HtFV2Eg"
-
-get_artifact_and_unpack "android-espn-chrome" "CbP1VDn4SV-BlFHMxwPPaQ"
-get_artifact_and_unpack "android-espn-firefox" "KR3QO8o0TM-ETeSjgZKobQ"
-
-get_artifact_and_unpack "android-micros-sup-chrome" "CWg2rBBrQ3iKeCbZVZetVg"
-get_artifact_and_unpack "android-micros-sup-firefox" "Hvp-x46aS5K37HKIZWgWyg"
+#get_artifact_and_unpack "android-allrecipes-chrome" "OxA_fZ3RSAStcrYEJXkwYA"
+#get_artifact_and_unpack "android-allrecipes-firefox" "cATLFcaiSeuA9v1HtFV2Eg"
+#get_artifact_and_unpack "android-espn-chrome" "CbP1VDn4SV-BlFHMxwPPaQ"
+#get_artifact_and_unpack "android-espn-firefox" "KR3QO8o0TM-ETeSjgZKobQ"
+#get_artifact_and_unpack "android-micros-sup-chrome" "CWg2rBBrQ3iKeCbZVZetVg"
+#get_artifact_and_unpack "android-micros-sup-firefox" "Hvp-x46aS5K37HKIZWgWyg"
 
 
+# 2025-01-21 android chrome
+# revision 003ca3de07761aee80f33b3a6af8b887d432369d
+
+# 2025-01-27 android firefox
+# revision f87bd2465b0b804aa0d9cef348036c76dc5fdf5f
