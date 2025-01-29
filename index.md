@@ -14,6 +14,6 @@
 - [reddit](/pages/2025-01-27-android-reddit-aggregate.svg)
 - [youtube_COU5T_Wafa4](/pages/2025-01-27-android-youtube_COU5T_Wafa4-aggregate.svg)
 
-# Notes
+# JSON Data
 
 * [Results](https://github.com/bdekoz/midnight.ci-2025-01/tree/main/results)
