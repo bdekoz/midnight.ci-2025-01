@@ -3,7 +3,7 @@
 # page annotated
 
 ## 1
-Three lines, the first is the test name, which is clickable to the URL being tested. The second is the date of the test, and the operating stystem used to test the browser (mac, linux, android, windows). The third line contains attributes of the page content, and optimizations like 'rel=preload' used to enhance performance.
+Three lines of text, the first is the test name, which is clickable to the URL being tested. The second is the date of the test, and the operating stystem used to test the browser (mac, linux, android, windows). The third line contains attributes of the page content, and optimizations like 'rel=preload' used to enhance performance.
 
 ## 2
 Side by side video of firefox on the left and chrome on the right. Controls to play/pause are on the bottom of the video frame.
