@@ -1,4 +1,7 @@
 ## About diagrams
+- [progressive metrics](/docs/about_1.md)
+- [key to glyphs](/docs/about_2.md)
+
 
 ## Results
 - [allrecipes](/pages/2025-01-27-android-allrecipes-aggregate.svg)
@@ -14,6 +17,6 @@
 - [reddit](/pages/2025-01-27-android-reddit-aggregate.svg)
 - [youtube_COU5T_Wafa4](/pages/2025-01-27-android-youtube_COU5T_Wafa4-aggregate.svg)
 
-## Data
 
+## Data
 * [json](https://github.com/bdekoz/midnight.ci-2025-01/tree/main/results)
