@@ -1,6 +1,6 @@
-# About these diagrams
+## About diagrams
 
-# Results
+## Results
 - [allrecipes](/pages/2025-01-27-android-allrecipes-aggregate.svg)
 - [amazon_mobile_phone](/pages/2025-01-27-android-amazon_mobile_phone-aggregate.svg)
 - [bild_de_super_bowl](/pages/2025-01-27-android-bild_de_super_bowl-aggregate.svg)
@@ -14,6 +14,6 @@
 - [reddit](/pages/2025-01-27-android-reddit-aggregate.svg)
 - [youtube_COU5T_Wafa4](/pages/2025-01-27-android-youtube_COU5T_Wafa4-aggregate.svg)
 
-# JSON Data
+## Data
 
-* [Results](https://github.com/bdekoz/midnight.ci-2025-01/tree/main/results)
+* [json](https://github.com/bdekoz/midnight.ci-2025-01/tree/main/results)
