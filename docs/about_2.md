@@ -1,3 +1,3 @@
 # page annotated
 
-![annotations for visual forms](/perf-glyph-composite-annotated.png "Annotations")
+![annotations for visual forms](perf-glyph-composite-annotated.png "Annotations")
