@@ -75,160 +75,160 @@ This is a visualization of data relating to web browser page load performance.It
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="160.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,160,880)">10</text>
 <text x="175.000000" y="900.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,175,900)">8</text>
-<rect x="150.000000" y="985.000000" width="10.000000" height="16.101629"
+<rect x="150.000000" y="985.000000" width="10.000000" height="16.117746"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="150.000000" y="985.000000" width="10.000000" height="16.101629"
+<rect x="150.000000" y="985.000000" width="10.000000" height="16.117746"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="165.000000" y="985.000000" width="10.000000" height="8.314453"
+<rect x="165.000000" y="985.000000" width="10.000000" height="8.322776"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="165.000000" y="985.000000" width="10.000000" height="8.314453"
+<rect x="165.000000" y="985.000000" width="10.000000" height="8.322776"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="160.000000" y="1006.101629" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,160,1006)">32.2</text>
-<text x="175.000000" y="998.314453" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,175,998)">16.6</text>
+<text x="160.000000" y="1006.117746" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,160,1006)">32.2</text>
+<text x="175.000000" y="998.322776" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,175,998)">16.6</text>
 <rect x="250.000000" y="885.000000" width="10.000000" height="100.000000"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
 <rect x="265.000000" y="912.272728" width="10.000000" height="72.727272"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="260.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,260,880)">11</text>
 <text x="275.000000" y="907.272728" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,275,907)">8</text>
-<rect x="250.000000" y="985.000000" width="10.000000" height="16.354361"
+<rect x="250.000000" y="985.000000" width="10.000000" height="16.370731"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="250.000000" y="985.000000" width="10.000000" height="16.354361"
+<rect x="250.000000" y="985.000000" width="10.000000" height="16.370731"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="265.000000" y="985.000000" width="10.000000" height="8.314453"
+<rect x="265.000000" y="985.000000" width="10.000000" height="8.322776"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="265.000000" y="985.000000" width="10.000000" height="8.314453"
+<rect x="265.000000" y="985.000000" width="10.000000" height="8.322776"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="260.000000" y="1006.354361" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,260,1006)">32.7</text>
-<text x="275.000000" y="998.314453" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,275,998)">16.6</text>
+<text x="260.000000" y="1006.370731" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,260,1006)">32.7</text>
+<text x="275.000000" y="998.322776" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,275,998)">16.6</text>
 <rect x="350.000000" y="973.321168" width="10.000000" height="11.678832"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
 <rect x="365.000000" y="885.000000" width="10.000000" height="100.000000"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="360.000000" y="968.321168" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,360,968)">16</text>
 <text x="375.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,375,880)">137</text>
-<rect x="350.000000" y="985.000000" width="10.000000" height="11.781341"
+<rect x="350.000000" y="985.000000" width="10.000000" height="11.793134"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="350.000000" y="985.000000" width="10.000000" height="11.781341"
+<rect x="350.000000" y="985.000000" width="10.000000" height="11.793134"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="365.000000" y="985.000000" width="10.000000" height="18.541428"
+<rect x="365.000000" y="985.000000" width="10.000000" height="18.559988"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="365.000000" y="985.000000" width="10.000000" height="18.541428"
+<rect x="365.000000" y="985.000000" width="10.000000" height="18.559988"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="360.000000" y="1001.781341" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,360,1001)">23.6</text>
-<text x="375.000000" y="1008.541428" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,375,1008)">37.1</text>
+<text x="360.000000" y="1001.793134" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,360,1001)">23.6</text>
+<text x="375.000000" y="1008.559988" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,375,1008)">37.1</text>
 <rect x="450.000000" y="971.000000" width="10.000000" height="14.000000"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
 <rect x="465.000000" y="885.000000" width="10.000000" height="100.000000"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="460.000000" y="966.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,460,966)">21</text>
 <text x="475.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,475,880)">150</text>
-<rect x="450.000000" y="985.000000" width="10.000000" height="11.191979"
+<rect x="450.000000" y="985.000000" width="10.000000" height="11.203182"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="450.000000" y="985.000000" width="10.000000" height="11.191979"
+<rect x="450.000000" y="985.000000" width="10.000000" height="11.203182"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="465.000000" y="985.000000" width="10.000000" height="17.381720"
+<rect x="465.000000" y="985.000000" width="10.000000" height="17.399118"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="465.000000" y="985.000000" width="10.000000" height="17.381720"
+<rect x="465.000000" y="985.000000" width="10.000000" height="17.399118"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="460.000000" y="1001.191979" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,460,1001)">22.4</text>
-<text x="475.000000" y="1007.381720" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,475,1007)">34.8</text>
+<text x="460.000000" y="1001.203182" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,460,1001)">22.4</text>
+<text x="475.000000" y="1007.399118" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,475,1007)">34.8</text>
 <rect x="550.000000" y="897.828949" width="10.000000" height="87.171051"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
 <rect x="565.000000" y="885.000000" width="10.000000" height="100.000000"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="560.000000" y="892.828949" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,560,892)">265</text>
 <text x="575.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,575,880)">304</text>
-<rect x="550.000000" y="985.000000" width="10.000000" height="9.139451"
+<rect x="550.000000" y="985.000000" width="10.000000" height="9.148600"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="550.000000" y="985.000000" width="10.000000" height="9.139451"
+<rect x="550.000000" y="985.000000" width="10.000000" height="9.148600"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="565.000000" y="985.000000" width="10.000000" height="7.353948"
+<rect x="565.000000" y="985.000000" width="10.000000" height="7.361309"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="565.000000" y="985.000000" width="10.000000" height="7.353948"
+<rect x="565.000000" y="985.000000" width="10.000000" height="7.361309"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="560.000000" y="999.139451" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,560,999)">18.3</text>
-<text x="575.000000" y="997.353948" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,575,997)">14.7</text>
+<text x="560.000000" y="999.148600" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,560,999)">18.3</text>
+<text x="575.000000" y="997.361309" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,575,997)">14.7</text>
 <rect x="650.000000" y="913.019318" width="10.000000" height="71.980682"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
 <rect x="665.000000" y="885.000000" width="10.000000" height="100.000000"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="660.000000" y="908.019318" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,660,908)">447</text>
 <text x="675.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,675,880)">621</text>
-<rect x="650.000000" y="985.000000" width="10.000000" height="10.286051"
+<rect x="650.000000" y="985.000000" width="10.000000" height="10.296347"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="650.000000" y="985.000000" width="10.000000" height="10.286051"
+<rect x="650.000000" y="985.000000" width="10.000000" height="10.296347"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="665.000000" y="985.000000" width="10.000000" height="7.719748"
+<rect x="665.000000" y="985.000000" width="10.000000" height="7.727476"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="665.000000" y="985.000000" width="10.000000" height="7.719748"
+<rect x="665.000000" y="985.000000" width="10.000000" height="7.727476"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="660.000000" y="1000.286051" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,660,1000)">20.6</text>
-<text x="675.000000" y="997.719748" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,675,997)">15.4</text>
+<text x="660.000000" y="1000.296347" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,660,1000)">20.6</text>
+<text x="675.000000" y="997.727476" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,675,997)">15.4</text>
 <rect x="750.000000" y="928.750000" width="10.000000" height="56.250000"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
 <rect x="765.000000" y="885.000000" width="10.000000" height="100.000000"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="760.000000" y="923.750000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,760,923)">243</text>
 <text x="775.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,775,880)">432</text>
-<rect x="750.000000" y="985.000000" width="10.000000" height="9.480825"
+<rect x="750.000000" y="985.000000" width="10.000000" height="9.490315"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="750.000000" y="985.000000" width="10.000000" height="9.480825"
+<rect x="750.000000" y="985.000000" width="10.000000" height="9.490315"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="765.000000" y="985.000000" width="10.000000" height="5.343449"
+<rect x="765.000000" y="985.000000" width="10.000000" height="5.348797"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="765.000000" y="985.000000" width="10.000000" height="5.343449"
+<rect x="765.000000" y="985.000000" width="10.000000" height="5.348797"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="760.000000" y="999.480825" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,760,999)">19.0</text>
-<text x="775.000000" y="995.343449" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,775,995)">10.7</text>
+<text x="760.000000" y="999.490315" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,760,999)">19.0</text>
+<text x="775.000000" y="995.348797" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,775,995)">10.7</text>
 <rect x="850.000000" y="889.629631" width="10.000000" height="95.370369"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
 <rect x="865.000000" y="885.000000" width="10.000000" height="100.000000"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="860.000000" y="884.629631" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,860,884)">412</text>
 <text x="875.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,875,880)">432</text>
-<rect x="850.000000" y="985.000000" width="10.000000" height="9.470079"
+<rect x="850.000000" y="985.000000" width="10.000000" height="9.479559"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="850.000000" y="985.000000" width="10.000000" height="9.470079"
+<rect x="850.000000" y="985.000000" width="10.000000" height="9.479559"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="865.000000" y="985.000000" width="10.000000" height="5.223045"
+<rect x="865.000000" y="985.000000" width="10.000000" height="5.228273"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="865.000000" y="985.000000" width="10.000000" height="5.223045"
+<rect x="865.000000" y="985.000000" width="10.000000" height="5.228273"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="860.000000" y="999.470079" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,860,999)">18.9</text>
-<text x="875.000000" y="995.223045" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,875,995)">10.4</text>
+<text x="860.000000" y="999.479559" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,860,999)">18.9</text>
+<text x="875.000000" y="995.228273" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,875,995)">10.4</text>
 <rect x="950.000000" y="900.827339" width="10.000000" height="84.172661"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
 <rect x="965.000000" y="885.000000" width="10.000000" height="100.000000"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="960.000000" y="895.827339" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,960,895)">351</text>
 <text x="975.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,975,880)">417</text>
-<rect x="950.000000" y="985.000000" width="10.000000" height="7.328095"
+<rect x="950.000000" y="985.000000" width="10.000000" height="7.335430"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="950.000000" y="985.000000" width="10.000000" height="7.328095"
+<rect x="950.000000" y="985.000000" width="10.000000" height="7.335430"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="965.000000" y="985.000000" width="10.000000" height="5.509243"
+<rect x="965.000000" y="985.000000" width="10.000000" height="5.514757"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="965.000000" y="985.000000" width="10.000000" height="5.509243"
+<rect x="965.000000" y="985.000000" width="10.000000" height="5.514757"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="960.000000" y="997.328095" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,960,997)">14.7</text>
-<text x="975.000000" y="995.509243" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,975,995)">11.0</text>
+<text x="960.000000" y="997.335430" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,960,997)">14.7</text>
+<text x="975.000000" y="995.514757" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,975,995)">11.0</text>
 <rect x="1050.000000" y="898.569939" width="10.000000" height="86.430061"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
 <rect x="1065.000000" y="885.000000" width="10.000000" height="100.000000"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
 <text x="1060.000000" y="893.569939" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,1060,893)">414</text>
 <text x="1075.000000" y="880.000000" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,1075,880)">479</text>
-<rect x="1050.000000" y="985.000000" width="10.000000" height="9.060486"
+<rect x="1050.000000" y="985.000000" width="10.000000" height="9.069555"
  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" />
-<rect x="1050.000000" y="985.000000" width="10.000000" height="9.060486"
+<rect x="1050.000000" y="985.000000" width="10.000000" height="9.069555"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="1065.000000" y="985.000000" width="10.000000" height="4.811215"
+<rect x="1065.000000" y="985.000000" width="10.000000" height="4.816031"
  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" />
-<rect x="1065.000000" y="985.000000" width="10.000000" height="4.811215"
+<rect x="1065.000000" y="985.000000" width="10.000000" height="4.816031"
  style="fill:rgb(0,0,0); fill-opacity:0.5; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" />
-<text x="1060.000000" y="999.060486" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,1060,999)">18.1</text>
-<text x="1075.000000" y="994.811215" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,1075,994)">9.6</text>
+<text x="1060.000000" y="999.069555" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,1060,999)">18.1</text>
+<text x="1075.000000" y="994.816031" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,1075,994)">9.6</text>
 <line x1="50.000000" y1="985.000000" x2="1150.000000" y2="985.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
  </g>
 <g id="progressive-page-load-glyph">
