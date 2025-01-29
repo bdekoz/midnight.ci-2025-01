@@ -261,8 +261,8 @@ This is a visualization of data relating to web browser page load performance.It
 <text x="975.000000" y="994.811215" font-family="Atkinson Hyperlegible" font-size="10.000000pt" text-anchor="end" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,975,994)">9.6</text>
 <line x1="50.000000" y1="985.000000" x2="1150.000000" y2="985.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:1; stroke-width:1.5" />
  </g>
-<text x="600.000000" y="1350.000000" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5">power used in pWh</text>
-<text x="595.000000" y="1374.000000" font-family="Atkinson Hyperlegible" font-size="20.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5">6.92473e+09</text>
-<text x="605.000000" y="1374.000000" font-family="Atkinson Hyperlegible" font-size="20.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5">6.41059e+09</text>
+<text x="600.000000" y="1350.000000" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5">power used in mWh</text>
+<text x="595.000000" y="1374.000000" font-family="Atkinson Hyperlegible" font-size="20.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5">6.9</text>
+<text x="605.000000" y="1374.000000" font-family="Atkinson Hyperlegible" font-size="20.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5">6.4</text>
 </svg>
 
