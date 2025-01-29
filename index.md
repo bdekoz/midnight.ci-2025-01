@@ -1,4 +1,4 @@
-## About diagrams
+## About
 - [progressive metrics](/docs/about_1.md)
 - [key to glyphs](/docs/about_2.md)
 
