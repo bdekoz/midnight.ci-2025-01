@@ -1,0 +1,330 @@
+{
+  "platform": "android-14-a55",
+  "date": "2025-01-27",
+  "test": "google",
+  "url": "https://www.google.com",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 0,
+    "google-publisher-tag": 0,
+    "preconnect": 0,
+    "prefetch": 0,
+    "preload": 1,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-01-27-android-14-a55-google-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-27-android-14-a55-google-firefox_00000.webp",
+      "00100": "2025-01-27-android-14-a55-google-firefox_00100.webp"
+    },
+    "power": {
+      "powerUsage": {
+        "median": "6.68388e+09",
+        "stddev": "271362580.000000",
+        "rsd": "4.003077"
+      }
+    },
+    "metrics": {
+      "fcp": {
+        "median": "141",
+        "stddev": "17.000000",
+        "rsd": "12.368957"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "178",
+        "stddev": "10.000000",
+        "rsd": "5.577759"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "193",
+        "stddev": "12.000000",
+        "rsd": "5.957062"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "-2",
+        "stddev": "1.000000",
+        "rsd": "-35.855403"
+      },
+      "domainLookupStart": {
+        "median": "10",
+        "stddev": "3.000000",
+        "rsd": "32.494931"
+      },
+      "connectStart": {
+        "median": "12",
+        "stddev": "4.000000",
+        "rsd": "29.567046"
+      },
+      "requestStart": {
+        "median": "17",
+        "stddev": "4.000000",
+        "rsd": "24.183500"
+      },
+      "responseStart": {
+        "median": "23",
+        "stddev": "5.000000",
+        "rsd": "19.039158"
+      },
+      "domInteractive": {
+        "median": "135",
+        "stddev": "9.000000",
+        "rsd": "6.519718"
+      },
+      "domComplete": {
+        "median": "364",
+        "stddev": "39.000000",
+        "rsd": "10.713386"
+      },
+      "loadEventEnd": {
+        "median": "365",
+        "stddev": "39.000000",
+        "rsd": "10.660283"
+      },
+      "SpeedIndex": {
+        "median": "186",
+        "stddev": "16.000000",
+        "rsd": "8.933790"
+      },
+      "VisualComplete85": {
+        "median": "198",
+        "stddev": "13.000000",
+        "rsd": "6.830863"
+      },
+      "LastVisualChange": {
+        "median": "274",
+        "stddev": "28.000000",
+        "rsd": "10.372787"
+      },
+      "lcp_element": "\"\"https://www.google.com/images/branding/searchlogo/1x/googlelogo_tablet_tier1_hp_color_183x64dp.png\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "177.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "198.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "277.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "177.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "198.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "277.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "177.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "198.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "277.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-27-android-14-a55-google-chrome_00000.webp",
+      "00100": "2025-01-27-android-14-a55-google-chrome_00100.webp"
+    },
+    "power": {
+      "powerUsage": {
+        "median": "6.02665e+09",
+        "stddev": "134300231.000000",
+        "rsd": "2.221517"
+      }
+    },
+    "metrics": {
+      "fcp": {
+        "median": "178",
+        "stddev": "21.000000",
+        "rsd": "11.778911"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "89",
+        "stddev": "11.000000",
+        "rsd": "12.207564"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "194",
+        "stddev": "21.000000",
+        "rsd": "10.797749"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "8",
+        "stddev": "2.000000",
+        "rsd": "21.906006"
+      },
+      "domainLookupStart": {
+        "median": "8",
+        "stddev": "2.000000",
+        "rsd": "21.906006"
+      },
+      "connectStart": {
+        "median": "8",
+        "stddev": "2.000000",
+        "rsd": "21.906006"
+      },
+      "requestStart": {
+        "median": "15",
+        "stddev": "3.000000",
+        "rsd": "18.009180"
+      },
+      "responseStart": {
+        "median": "28",
+        "stddev": "5.000000",
+        "rsd": "17.655164"
+      },
+      "domInteractive": {
+        "median": "82",
+        "stddev": "14.000000",
+        "rsd": "16.284180"
+      },
+      "domComplete": {
+        "median": "275",
+        "stddev": "32.000000",
+        "rsd": "10.860898"
+      },
+      "loadEventEnd": {
+        "median": "276",
+        "stddev": "32.000000",
+        "rsd": "10.888214"
+      },
+      "SpeedIndex": {
+        "median": "149",
+        "stddev": "19.000000",
+        "rsd": "12.650990"
+      },
+      "VisualComplete85": {
+        "median": "146",
+        "stddev": "20.000000",
+        "rsd": "13.355852"
+      },
+      "LastVisualChange": {
+        "median": "228",
+        "stddev": "16.000000",
+        "rsd": "7.268248"
+      },
+      "lcp_element": "\"\"https://www.google.com/images/branding/searchlogo/1x/googlelogo_tablet_tier1_hp_color_183x64dp.png\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "146.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "162.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "179.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "212.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "146.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "162.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "179.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "212.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "146.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "162.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "179.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "212.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}

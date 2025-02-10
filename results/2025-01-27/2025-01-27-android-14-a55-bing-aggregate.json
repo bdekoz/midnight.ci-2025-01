@@ -1,0 +1,845 @@
+{
+  "platform": "android-14-a55",
+  "date": "2025-01-27",
+  "test": "bing",
+  "url": "https://www.bing.com/",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 1,
+    "google-publisher-tag": 0,
+    "preconnect": 1,
+    "prefetch": 1,
+    "preload": 1,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-01-27-android-14-a55-bing-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-27-android-14-a55-bing-firefox_00000.webp",
+      "00100": "2025-01-27-android-14-a55-bing-firefox_00100.webp",
+      "00200": "2025-01-27-android-14-a55-bing-firefox_00200.webp",
+      "00300": "2025-01-27-android-14-a55-bing-firefox_00300.webp",
+      "00400": "2025-01-27-android-14-a55-bing-firefox_00400.webp",
+      "00500": "2025-01-27-android-14-a55-bing-firefox_00500.webp",
+      "00600": "2025-01-27-android-14-a55-bing-firefox_00600.webp",
+      "00700": "2025-01-27-android-14-a55-bing-firefox_00700.webp",
+      "00800": "2025-01-27-android-14-a55-bing-firefox_00800.webp",
+      "00900": "2025-01-27-android-14-a55-bing-firefox_00900.webp",
+      "01000": "2025-01-27-android-14-a55-bing-firefox_01000.webp",
+      "01100": "2025-01-27-android-14-a55-bing-firefox_01100.webp",
+      "01200": "2025-01-27-android-14-a55-bing-firefox_01200.webp",
+      "01300": "2025-01-27-android-14-a55-bing-firefox_01300.webp",
+      "01400": "2025-01-27-android-14-a55-bing-firefox_01400.webp",
+      "01500": "2025-01-27-android-14-a55-bing-firefox_01500.webp",
+      "01600": "2025-01-27-android-14-a55-bing-firefox_01600.webp",
+      "01700": "2025-01-27-android-14-a55-bing-firefox_01700.webp",
+      "01800": "2025-01-27-android-14-a55-bing-firefox_01800.webp",
+      "01900": "2025-01-27-android-14-a55-bing-firefox_01900.webp",
+      "02000": "2025-01-27-android-14-a55-bing-firefox_02000.webp",
+      "02100": "2025-01-27-android-14-a55-bing-firefox_02100.webp",
+      "02200": "2025-01-27-android-14-a55-bing-firefox_02200.webp",
+      "02300": "2025-01-27-android-14-a55-bing-firefox_02300.webp",
+      "02400": "2025-01-27-android-14-a55-bing-firefox_02400.webp",
+      "02500": "2025-01-27-android-14-a55-bing-firefox_02500.webp",
+      "02600": "2025-01-27-android-14-a55-bing-firefox_02600.webp",
+      "02700": "2025-01-27-android-14-a55-bing-firefox_02700.webp",
+      "02800": "2025-01-27-android-14-a55-bing-firefox_02800.webp",
+      "02900": "2025-01-27-android-14-a55-bing-firefox_02900.webp",
+      "03000": "2025-01-27-android-14-a55-bing-firefox_03000.webp",
+      "03100": "2025-01-27-android-14-a55-bing-firefox_03100.webp",
+      "03200": "2025-01-27-android-14-a55-bing-firefox_03200.webp",
+      "03300": "2025-01-27-android-14-a55-bing-firefox_03300.webp",
+      "03400": "2025-01-27-android-14-a55-bing-firefox_03400.webp",
+      "03500": "2025-01-27-android-14-a55-bing-firefox_03500.webp",
+      "03600": "2025-01-27-android-14-a55-bing-firefox_03600.webp",
+      "03700": "2025-01-27-android-14-a55-bing-firefox_03700.webp",
+      "03800": "2025-01-27-android-14-a55-bing-firefox_03800.webp",
+      "03900": "2025-01-27-android-14-a55-bing-firefox_03900.webp",
+      "04000": "2025-01-27-android-14-a55-bing-firefox_04000.webp",
+      "04100": "2025-01-27-android-14-a55-bing-firefox_04100.webp",
+      "04200": "2025-01-27-android-14-a55-bing-firefox_04200.webp",
+      "04300": "2025-01-27-android-14-a55-bing-firefox_04300.webp",
+      "04400": "2025-01-27-android-14-a55-bing-firefox_04400.webp",
+      "04500": "2025-01-27-android-14-a55-bing-firefox_04500.webp",
+      "04600": "2025-01-27-android-14-a55-bing-firefox_04600.webp",
+      "04700": "2025-01-27-android-14-a55-bing-firefox_04700.webp",
+      "04800": "2025-01-27-android-14-a55-bing-firefox_04800.webp",
+      "04900": "2025-01-27-android-14-a55-bing-firefox_04900.webp",
+      "05000": "2025-01-27-android-14-a55-bing-firefox_05000.webp",
+      "05100": "2025-01-27-android-14-a55-bing-firefox_05100.webp",
+      "05200": "2025-01-27-android-14-a55-bing-firefox_05200.webp",
+      "05300": "2025-01-27-android-14-a55-bing-firefox_05300.webp",
+      "05400": "2025-01-27-android-14-a55-bing-firefox_05400.webp",
+      "05500": "2025-01-27-android-14-a55-bing-firefox_05500.webp",
+      "05600": "2025-01-27-android-14-a55-bing-firefox_05600.webp",
+      "05700": "2025-01-27-android-14-a55-bing-firefox_05700.webp",
+      "05800": "2025-01-27-android-14-a55-bing-firefox_05800.webp",
+      "05900": "2025-01-27-android-14-a55-bing-firefox_05900.webp",
+      "06000": "2025-01-27-android-14-a55-bing-firefox_06000.webp",
+      "06100": "2025-01-27-android-14-a55-bing-firefox_06100.webp"
+    },
+    "power": {
+      "powerUsage": {
+        "median": "7.44204e+09",
+        "stddev": "311129046.000000",
+        "rsd": "4.127891"
+      }
+    },
+    "metrics": {
+      "fcp": {
+        "median": "171",
+        "stddev": "22.000000",
+        "rsd": "12.294813"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "247",
+        "stddev": "30.000000",
+        "rsd": "11.970143"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "-2",
+        "stddev": "1.000000",
+        "rsd": "-37.665437"
+      },
+      "domainLookupStart": {
+        "median": "10",
+        "stddev": "3.000000",
+        "rsd": "24.527085"
+      },
+      "connectStart": {
+        "median": "12",
+        "stddev": "3.000000",
+        "rsd": "25.750612"
+      },
+      "requestStart": {
+        "median": "16",
+        "stddev": "4.000000",
+        "rsd": "27.878136"
+      },
+      "responseStart": {
+        "median": "23",
+        "stddev": "5.000000",
+        "rsd": "22.665927"
+      },
+      "domInteractive": {
+        "median": "150",
+        "stddev": "22.000000",
+        "rsd": "13.994697"
+      },
+      "domComplete": {
+        "median": "187",
+        "stddev": "22.000000",
+        "rsd": "11.415698"
+      },
+      "loadEventEnd": {
+        "median": "188",
+        "stddev": "22.000000",
+        "rsd": "11.401837"
+      },
+      "SpeedIndex": {
+        "median": "427",
+        "stddev": "32.000000",
+        "rsd": "7.397884"
+      },
+      "VisualComplete85": {
+        "median": "534",
+        "stddev": "49.000000",
+        "rsd": "9.433560"
+      },
+      "LastVisualChange": {
+        "median": "6235",
+        "stddev": "216.000000",
+        "rsd": "3.526125"
+      },
+      "lcp_element": "\"\"<a href='/search?q=Mobula+munkiana&amp;form=hpcapt&amp;filters=HpDate:&quot;20210419_0700&quot;' data-h='ID=HpApp,21421.1' class='title'></a>\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "206.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "212.000000",
+          "percent": "47"
+        },
+        {
+          "timestamp": "310.000000",
+          "percent": "70"
+        },
+        {
+          "timestamp": "361.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "385.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "394.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "436.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "536.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "553.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "594.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "652.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1195.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1712.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2226.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2728.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "3233.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "3733.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "4234.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "4745.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5261.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5762.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6261.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "206.000000",
+          "percent": "57"
+        },
+        {
+          "timestamp": "212.000000",
+          "percent": "59"
+        },
+        {
+          "timestamp": "310.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "361.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "385.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "394.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "436.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "536.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "553.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "594.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "652.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1195.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1712.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "2226.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "2728.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "3233.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "3733.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "4234.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "4745.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5261.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5762.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "6261.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "206.000000",
+          "percent": "13"
+        },
+        {
+          "timestamp": "212.000000",
+          "percent": "13"
+        },
+        {
+          "timestamp": "310.000000",
+          "percent": "15"
+        },
+        {
+          "timestamp": "361.000000",
+          "percent": "16"
+        },
+        {
+          "timestamp": "385.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "394.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "436.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "536.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "553.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "594.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "652.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1195.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1712.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2226.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "2728.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "3233.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "3733.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "4234.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "4745.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5261.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "5762.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6261.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-27-android-14-a55-bing-chrome_00000.webp",
+      "00100": "2025-01-27-android-14-a55-bing-chrome_00100.webp",
+      "00200": "2025-01-27-android-14-a55-bing-chrome_00200.webp",
+      "00300": "2025-01-27-android-14-a55-bing-chrome_00300.webp",
+      "00400": "2025-01-27-android-14-a55-bing-chrome_00400.webp",
+      "00500": "2025-01-27-android-14-a55-bing-chrome_00500.webp",
+      "00600": "2025-01-27-android-14-a55-bing-chrome_00600.webp",
+      "00700": "2025-01-27-android-14-a55-bing-chrome_00700.webp",
+      "00800": "2025-01-27-android-14-a55-bing-chrome_00800.webp",
+      "00900": "2025-01-27-android-14-a55-bing-chrome_00900.webp",
+      "01000": "2025-01-27-android-14-a55-bing-chrome_01000.webp",
+      "01100": "2025-01-27-android-14-a55-bing-chrome_01100.webp",
+      "01200": "2025-01-27-android-14-a55-bing-chrome_01200.webp",
+      "01300": "2025-01-27-android-14-a55-bing-chrome_01300.webp",
+      "01400": "2025-01-27-android-14-a55-bing-chrome_01400.webp",
+      "01500": "2025-01-27-android-14-a55-bing-chrome_01500.webp",
+      "01600": "2025-01-27-android-14-a55-bing-chrome_01600.webp",
+      "01700": "2025-01-27-android-14-a55-bing-chrome_01700.webp",
+      "01800": "2025-01-27-android-14-a55-bing-chrome_01800.webp",
+      "01900": "2025-01-27-android-14-a55-bing-chrome_01900.webp",
+      "02000": "2025-01-27-android-14-a55-bing-chrome_02000.webp",
+      "02100": "2025-01-27-android-14-a55-bing-chrome_02100.webp",
+      "02200": "2025-01-27-android-14-a55-bing-chrome_02200.webp",
+      "02300": "2025-01-27-android-14-a55-bing-chrome_02300.webp",
+      "02400": "2025-01-27-android-14-a55-bing-chrome_02400.webp",
+      "02500": "2025-01-27-android-14-a55-bing-chrome_02500.webp",
+      "02600": "2025-01-27-android-14-a55-bing-chrome_02600.webp",
+      "02700": "2025-01-27-android-14-a55-bing-chrome_02700.webp",
+      "02800": "2025-01-27-android-14-a55-bing-chrome_02800.webp",
+      "02900": "2025-01-27-android-14-a55-bing-chrome_02900.webp",
+      "03000": "2025-01-27-android-14-a55-bing-chrome_03000.webp",
+      "03100": "2025-01-27-android-14-a55-bing-chrome_03100.webp",
+      "03200": "2025-01-27-android-14-a55-bing-chrome_03200.webp",
+      "03300": "2025-01-27-android-14-a55-bing-chrome_03300.webp",
+      "03400": "2025-01-27-android-14-a55-bing-chrome_03400.webp",
+      "03500": "2025-01-27-android-14-a55-bing-chrome_03500.webp",
+      "03600": "2025-01-27-android-14-a55-bing-chrome_03600.webp",
+      "03700": "2025-01-27-android-14-a55-bing-chrome_03700.webp",
+      "03800": "2025-01-27-android-14-a55-bing-chrome_03800.webp",
+      "03900": "2025-01-27-android-14-a55-bing-chrome_03900.webp",
+      "04000": "2025-01-27-android-14-a55-bing-chrome_04000.webp",
+      "04100": "2025-01-27-android-14-a55-bing-chrome_04100.webp",
+      "04200": "2025-01-27-android-14-a55-bing-chrome_04200.webp",
+      "04300": "2025-01-27-android-14-a55-bing-chrome_04300.webp",
+      "04400": "2025-01-27-android-14-a55-bing-chrome_04400.webp",
+      "04500": "2025-01-27-android-14-a55-bing-chrome_04500.webp",
+      "04600": "2025-01-27-android-14-a55-bing-chrome_04600.webp",
+      "04700": "2025-01-27-android-14-a55-bing-chrome_04700.webp",
+      "04800": "2025-01-27-android-14-a55-bing-chrome_04800.webp",
+      "04900": "2025-01-27-android-14-a55-bing-chrome_04900.webp",
+      "05000": "2025-01-27-android-14-a55-bing-chrome_05000.webp",
+      "05100": "2025-01-27-android-14-a55-bing-chrome_05100.webp",
+      "05200": "2025-01-27-android-14-a55-bing-chrome_05200.webp",
+      "05300": "2025-01-27-android-14-a55-bing-chrome_05300.webp",
+      "05400": "2025-01-27-android-14-a55-bing-chrome_05400.webp",
+      "05500": "2025-01-27-android-14-a55-bing-chrome_05500.webp",
+      "05600": "2025-01-27-android-14-a55-bing-chrome_05600.webp",
+      "05700": "2025-01-27-android-14-a55-bing-chrome_05700.webp",
+      "05800": "2025-01-27-android-14-a55-bing-chrome_05800.webp",
+      "05900": "2025-01-27-android-14-a55-bing-chrome_05900.webp",
+      "06000": "2025-01-27-android-14-a55-bing-chrome_06000.webp"
+    },
+    "power": {
+      "powerUsage": {
+        "median": "7.09436e+09",
+        "stddev": "175818166.000000",
+        "rsd": "2.458097"
+      }
+    },
+    "metrics": {
+      "fcp": {
+        "median": "366",
+        "stddev": "23.000000",
+        "rsd": "6.095379"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "764",
+        "stddev": "31.000000",
+        "rsd": "4.068184"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "8",
+        "stddev": "1.000000",
+        "rsd": "11.948730"
+      },
+      "domainLookupStart": {
+        "median": "8",
+        "stddev": "1.000000",
+        "rsd": "11.948730"
+      },
+      "connectStart": {
+        "median": "12",
+        "stddev": "3.000000",
+        "rsd": "24.486844"
+      },
+      "requestStart": {
+        "median": "42",
+        "stddev": "19.000000",
+        "rsd": "39.693268"
+      },
+      "responseStart": {
+        "median": "92",
+        "stddev": "20.000000",
+        "rsd": "20.261154"
+      },
+      "domInteractive": {
+        "median": "167",
+        "stddev": "23.000000",
+        "rsd": "12.985231"
+      },
+      "domComplete": {
+        "median": "168",
+        "stddev": "23.000000",
+        "rsd": "12.857583"
+      },
+      "loadEventEnd": {
+        "median": "170",
+        "stddev": "23.000000",
+        "rsd": "12.823008"
+      },
+      "SpeedIndex": {
+        "median": "589",
+        "stddev": "21.000000",
+        "rsd": "3.644157"
+      },
+      "VisualComplete85": {
+        "median": "737",
+        "stddev": "31.000000",
+        "rsd": "4.230785"
+      },
+      "LastVisualChange": {
+        "median": "6183",
+        "stddev": "157.000000",
+        "rsd": "2.565069"
+      },
+      "lcp_element": "\"\"<span></span>\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "327.000000",
+          "percent": "52"
+        },
+        {
+          "timestamp": "380.000000",
+          "percent": "60"
+        },
+        {
+          "timestamp": "577.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "594.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "678.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "744.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "778.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1164.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1179.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1717.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2220.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2720.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "3220.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "3720.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "4222.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "4720.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "5218.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "5695.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "327.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "380.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "577.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "594.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "678.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "744.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "778.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1164.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1179.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1717.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "2220.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "2720.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "3220.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "3720.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "4222.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "4720.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5218.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5695.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "327.000000",
+          "percent": "18"
+        },
+        {
+          "timestamp": "380.000000",
+          "percent": "20"
+        },
+        {
+          "timestamp": "577.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "594.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "678.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "744.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "778.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1164.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1179.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1717.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2220.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "2720.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "3220.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "3720.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "4222.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "4720.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "5218.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5695.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}

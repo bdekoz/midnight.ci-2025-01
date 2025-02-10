@@ -37,6 +37,9 @@ generate_platform_by_sitelist() {
     SITELIST="$2"
     ISODATE="$3"
 
+   MDOWNFILE=index-proto.md
+   echo "## Results" >> $MDOWNFILE
+
    for i in `cat ${SITELIST}`
    do
        URLM=`${XURLMIN} "$i"`
@@ -53,10 +56,14 @@ generate_platform_by_sitelist() {
        CFJ="${ODIR}/${ARTIFACT_BASE}-chrome-filmstrip.json"
 
        $XAGGREGATE "$URLM" "$i" "$PLATFORM" "$ISODATE" "${ARTIFACT_BASE}-side-by-side.mp4" "$FFFJ" "$FFMJ" "$CFJ" "$CMJ"
+
+       # generate markdown index
+       echo "- [${URLM}](/pages/${ARTIFACT_BASE}-aggregate.svg)" >> $MDOWNFILE
    done
 }
 
-generate_platform_by_sitelist "android" "./sitelist.txt" "2025-01-27"
+TPMETADATA="android-14-a55"
+generate_platform_by_sitelist "$TPMETADATA" "./sitelist.txt" "2025-01-27"
 
 # 3
 generate_data_json() {
