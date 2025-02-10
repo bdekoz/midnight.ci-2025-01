@@ -277,7 +277,7 @@ This is a visualization of data relating to web browser page load performance.It
 <text x="1050.000000" y="1145.000000" font-family="Atkinson Hyperlegible" font-size="11.000000pt" text-anchor="end" text-align="left" dominant-baseline="hanging" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5" transform="rotate(270,1050,1145)">LastVisualChange</text>
 </g>
 <text x="600.000000" y="1350.000000" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5">power used in mWh (rsd)</text>
-<text x="595.000000" y="1374.000000" font-family="Atkinson Hyperlegible" font-size="20.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5">6.60 (12.)</text>
-<text x="605.000000" y="1374.000000" font-family="Atkinson Hyperlegible" font-size="20.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5">6.27 (2.)</text>
+<text x="595.000000" y="1374.000000" font-family="Atkinson Hyperlegible" font-size="20.000000pt" text-anchor="end" text-align="right" font-weight="400" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,0,0); stroke-opacity:0; stroke-width:0.5">6.60 (12.0)</text>
+<text x="605.000000" y="1374.000000" font-family="Atkinson Hyperlegible" font-size="20.000000pt" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(0,0,255); stroke-opacity:0; stroke-width:0.5">6.27 (2.2)</text>
 </svg>
 
