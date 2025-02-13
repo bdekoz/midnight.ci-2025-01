@@ -1,7 +1,9 @@
 ## About
 - [progressive metrics](/docs/about_1.md)
 - [key to glyphs](/docs/about_2.md)
-- Android 14, Samsung A55, 20 iter
+- [test and device metadata](/docs/results_metadata.md)
+- [notes](/docs/observations_notes.md)
+- [perf view](perfview.html)
 
 
 ## Results
