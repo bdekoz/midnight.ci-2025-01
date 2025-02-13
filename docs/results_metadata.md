@@ -1,9 +1,9 @@
 
 # Testing Notes
 
-- device: Pixel 8
-- os: Android 15
+- device: Samsung A55
+- os: Android 14
 
-- iterations: 1/8/20
+- iterations: 20
 
 - variant:
