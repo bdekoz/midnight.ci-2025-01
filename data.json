@@ -1,6 +1,6 @@
 [
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "allrecipes",
   "url": "https://www.allrecipes.com/",
@@ -360,7 +360,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "amazon",
   "url": "https://www.amazon.com",
@@ -4393,7 +4393,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "amazon_mobile_phone",
   "url": "https://www.amazon.com/s/ref=nb_sb_noss_2/139-6317191-5622045?url=search-alias%3Daps&field-keywords=mobile+phone",
@@ -4857,7 +4857,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "bild_de_super_bowl",
   "url": "https://www.bild.de/sport/american-football/nfl/super-bowl-rekordquote-fuer-die-nfl-87139668.bild.html",
@@ -5298,7 +5298,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "bing",
   "url": "https://www.bing.com/",
@@ -6143,7 +6143,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "bing_restaurants_in_exton_pa_19341",
   "url": "https://www.bing.com/search?q=restaurants+in+exton+pa+19341",
@@ -6566,7 +6566,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "booking",
   "url": "https://www.booking.com/",
@@ -9151,7 +9151,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "cnn",
   "url": "https://cnn.com",
@@ -11015,7 +11015,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "cnn_why_hurricane",
   "url": "https://cnn.com/ampstories/us/why-hurricane-michael-is-a-monster-unlike-any-other",
@@ -11344,7 +11344,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "dailymail_co_uk_experts_say",
   "url": "https://www.dailymail.co.uk/sciencetech/article-9749081/Experts-say-Hubble-repair-despite-NASA-insisting-multiple-options-fix.html",
@@ -11810,7 +11810,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "en_m_wikipedia_main_page",
   "url": "https://en.m.wikipedia.org/wiki/Main_Page",
@@ -12144,7 +12144,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "espn_the_comparison",
   "url": "http://www.espn.com/nba/story/_/page/allstarweekend25788027/the-comparison-lebron-james-michael-jordan-their-own-words",
@@ -13331,7 +13331,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "google",
   "url": "https://www.google.com",
@@ -13661,7 +13661,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "google_pwa",
   "url": "https://www.google.com/maps?force=pwa",
@@ -13959,7 +13959,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "google_restaurants_near_me",
   "url": "https://www.google.com/search?q=restaurants+near+me",
@@ -14278,7 +14278,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "instagram",
   "url": "https://www.instagram.com",
@@ -15001,7 +15001,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "m_ebay_kleinanzeigen_de_c199_l3331",
   "url": "https://m.ebay-kleinanzeigen.de/s-anzeigen/auf-zeit-wg-berlin/zimmer/c199-l3331",
@@ -15436,7 +15436,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "m_facebook_Cristiano",
   "url": "https://m.facebook.com/Cristiano",
@@ -15850,7 +15850,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "m_imdb",
   "url": "https://m.imdb.com/",
@@ -18991,7 +18991,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "m_youtube",
   "url": "https://m.youtube.com",
@@ -19353,7 +19353,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "reddit",
   "url": "https://www.reddit.com",
@@ -22030,7 +22030,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "sina",
   "url": "https://www.sina.com.cn/",
@@ -23460,7 +23460,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "stackoverflow",
   "url": "https://stackoverflow.com/",
@@ -23856,7 +23856,7 @@
   }
 },
 {
-  "platform": "android-14-a55",
+  "platform": "android-14",
   "date": "2025-01-27",
   "test": "youtube_COU5T_Wafa4",
   "url": "https://www.youtube.com/watch?v=COU5T-Wafa4",
