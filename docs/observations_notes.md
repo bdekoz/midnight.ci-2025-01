@@ -4,6 +4,7 @@
 observations per-site
 
 No visual metrics:
+
 support_microsoft_en_us
 
 m_ebay_kleinanzeigen_de
